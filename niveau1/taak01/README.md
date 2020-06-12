@@ -29,6 +29,12 @@ Ook ga je leren hoe je een class diagram tekent en hoe je met een stuk tekst een
 ## Eindresultaat
 5 verschillende klassen
 
+1. Persoon
+2. Electronica
+3. Instrument
+4. Schoonmaak middel
+5. Glas
+
 ## Bronnen
 - Boek: applicatie en mediaontwikkelaar: blz 66, 5.6
 - Powerpoint: <a href=https://github.com/ROC-van-Amsterdam-College-Amstelland/ONTWERPEN-2/blob/master/niveau1/taak01/Taak%201%20-%20objecten%20en%20classes.pdf> Objecten en classes</a>
